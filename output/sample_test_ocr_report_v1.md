@@ -1,0 +1,1 @@
+I have extracted all the text from the image and saved it to a file named `image_ocr_report_v1.md`.
